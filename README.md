@@ -9,7 +9,6 @@
 | [`firmware/oled_test/`](firmware/oled_test/) | PlatformIO 固件、烧录辅助脚本和第一版 PCB 接线说明 |
 | [`原理图/`](原理图/) | 原理图 PDF 与物料清单 |
 | [`PCB/`](PCB/) | PCB 截图 |
-| `盒子.3mf`、`抽屉托盘.3mf` | 3D 打印模型 |
 | `*.SLDPRT`、`*.SLDASM`、`*.step` | 结构设计与 PCB 三维文件 |
 | [`干燥盒子项目_简易.md`](干燥盒子项目_简易.md) | 原始功能规划，部分内容尚未在现有版本实现 |
 
